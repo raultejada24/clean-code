@@ -15,4 +15,5 @@ The goal of this demo is to analyze how AI tools (like GitHub Copilot, Cursor, o
 ## Demo Video
 
 You can watch the full refactoring process and our critical analysis here:
+
 [Link to YouTube Video](https://youtu.be/c5FQo9acjZI)
